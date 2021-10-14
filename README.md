@@ -1,1 +1,2 @@
-# V2-C38-Class-Activity-Template
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
